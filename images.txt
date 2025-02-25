@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #koush/scrypted
-koush/scrypted:v0.72.0
+koush/scrypted:Latest
