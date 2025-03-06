@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #koush/scrypted
-koush/scrypted:0.93.0
+lmk123/migpt-server
